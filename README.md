@@ -21,5 +21,5 @@ Develop a software in Python to identify the land boundaires and vehicles in a v
 5. Run the pipeline on a video stream and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 
 # Final Result
-**Check out the video below**
+**Check out the video below** <br>
 [![image](http://img.youtube.com/vi/ejwjEC9vftE/0.jpg)](http://www.youtube.com/watch?v=ejwjEC9vftE "Vehicle Lane Detection")
